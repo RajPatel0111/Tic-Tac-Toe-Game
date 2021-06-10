@@ -6,7 +6,7 @@ function Footer() {
             <div className="container">
                 <div className="row justify-content-center">             
                     <div className="col-7 col-md-8">
-                        <h5>Dhrumil Shah</h5>
+                        <h5>Raj Patel</h5>
                         <i className="fa fa-phone fa-lg"></i>: +226-507-7571<br />
                         <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:Torajpatel@outlook.com" >
                             Torajpatel@outlook.com</a>
